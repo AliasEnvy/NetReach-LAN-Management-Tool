@@ -21,7 +21,6 @@ Zero external dependencies
 Installation
 Install Python 3.10+
 Clone the repository:
-git clone https://github.com/yourusername/lan-manager.git
 cd lan-manager
 Run the application:
 python main.py
